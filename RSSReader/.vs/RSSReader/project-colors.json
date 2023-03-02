@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8a66c4a-4f7c-482b-a7ab-ceb7d2462001": {
+      "ProjectGuid": "c8a66c4a-4f7c-482b-a7ab-ceb7d2462001",
+      "DisplayName": "RSSReader.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
